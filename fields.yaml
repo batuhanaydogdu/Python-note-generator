@@ -1,0 +1,7 @@
+fields:
+- field_name: neptun_code
+  label: Neptun Code
+- field_name: result
+  label: Result [%]
+- field_name: mark
+  label: Mark[1-5]
